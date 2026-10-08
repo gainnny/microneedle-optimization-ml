@@ -1,0 +1,6 @@
+﻿Prototype,Length_um,Inner_diameter_um,Density_cm2,Reported_gelatin_penetration_area_cm2,Data_status
+Needle 1 (Baseline),600,40.0,350,8.5,Previously reported summary; raw measurements unavailable
+Needle 2 (Max Length),800,40.0,350,10.74,Previously reported summary; raw measurements unavailable
+Needle 3 (Max Diameter),600,60.0,350,1.33,Previously reported summary; raw measurements unavailable
+Needle 4 (Max Density),600,40.0,500,2.62,Previously reported summary; raw measurements unavailable
+Needle 5 (Candidate Design),688,45.2,402,5.77,Previously reported summary; raw measurements unavailable

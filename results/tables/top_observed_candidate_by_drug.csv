@@ -1,0 +1,6 @@
+﻿Drug,MW_g_mol,Design_ID,Length_um,Base_size_um,Tip_diameter_um,Inner_diameter_um,Cone_radius_um,Density_cm2,Insertion_speed_mm_s,Concentration_pct,J_Score_Normalized_Observed,J_Score_Normalized_OOF_Prediction,Rank_within_observed_designs
+Ascorbic acid,176.12,132,650,300,1.93,150,3.86,900,5,0.5,0.8626709578178694,0.8626709578178692,1
+Estradiol,272.4,132,650,300,1.93,150,3.86,900,5,0.5,0.6933707722662182,0.6931976332197617,1
+Ibuprofen,206.3,120,650,100,1.44,150,2.88,900,5,0.5,0.796964485585032,0.7969644855850317,1
+Lidocaine,234.3,120,650,100,1.44,150,2.88,900,5,0.5,0.7477385624770415,0.7477385624770405,1
+Paroxetine,329.4,114,650,100,1.93,150,3.86,900,5,0.5,0.6303989382157416,0.6304474472657802,1
