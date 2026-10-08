@@ -70,7 +70,6 @@ Concentration remains fixed at the observed 0.5%. These candidates are computati
 ## Gelatin-based experiment
 
 Model-derived designs were fabricated using 3D printing and evaluated using a gelatin-based penetration experiment. A five-prototype summary, preserving the values previously entered in the project notebook, is saved separately in results/tables/experimental_validation_summary.csv.
-
 The experiment is limited to the conducted gelatin-based model and is not clinical validation. No claim about human skin performance or clinical drug delivery is made.
 
 ## Limitations
